@@ -3,3 +3,8 @@
 *::after {
     box-sizing: border-box;
 }
+
+.flex {
+    display: flex;
+    gap: 1rem;
+}
